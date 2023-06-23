@@ -1,0 +1,1 @@
+jpackage -i java --type app-image -n RandomGenerater --main-jar 1.jar --icon java/1.ico --vendor cy --verbose
